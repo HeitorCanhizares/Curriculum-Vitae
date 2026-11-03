@@ -3,8 +3,8 @@
 Primavera do Leste, Mato Grosso, Brasil  
 +55 66 99968-6292  
 heitorcanhizares@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/seu-perfil)  
-[GitHub](https://github.com/seu-usuario)
+[LinkedIn](https://www.linkedin.com/in/heitorcanhizares)  
+[GitHub](https://github.com/HeitorCanhizares)
 
 ## RESUMO PROFISSIONAL
 
@@ -52,7 +52,7 @@ Novembro 2021 – Fevereiro 2024
 
 - Bacharelado em Ciência da Computação – Descomplica – Em andamento  
 - Tecnólogo em Análise e Desenvolvimento de Sistemas – Descomplica – Concluído (2025)  
-  - Validação do Diploma: [Link para Consulta (Código: 2241934.387293.1)](https://link-de-validacao.com)  
+  - Código de validação do diploma: 2241934.387293.1  
 
 ## IDIOMAS
 

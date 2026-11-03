@@ -3,8 +3,8 @@
 Primavera do Leste, Mato Grosso, Brazil  
 +55 66 99968-6292  
 heitorcanhizares@gmail.com  
-[LinkedIn](https://linkedin.com/in/yourprofile)  
-[GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/heitorcanhizares)  
+[GitHub](https://github.com/HeitorCanhizares)
 
 ## PROFESSIONAL SUMMARY
 
@@ -52,7 +52,7 @@ November 2021 – February 2024
 
 - Bachelor of Computer Science, Descomplica (In Progress)  
 - Associate Degree in Systems Analysis and Development, Descomplica (Completed 2025)  
-  - Diploma Validation: [Link for Consultation (Code: 2241934.387293.1)](https://example-validation-link.com)  
+  - Diploma validation code: 2241934.387293.1  
 
 ## LANGUAGES
 
